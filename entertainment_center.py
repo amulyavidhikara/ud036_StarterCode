@@ -38,3 +38,5 @@ pink = media.Movie("Pink (2016)",
 
 movies = [casualties_of_war, kiss_kiss_bang_bang, godfather, ice_age, chak_de_india,
           the_shawshank_redemption, crouching_tiger_hidden_dragon, enemy_at_the_gates, march_of_the_penguins, pink]
+
+fresh_tomatoes.open_movies_page(movies)
