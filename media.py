@@ -1,3 +1,5 @@
+""" This file creates a class called "Movie" to store information related to the movie for which information should be displayed in the movie trailer website"""
+
 import webbrowser
 
 

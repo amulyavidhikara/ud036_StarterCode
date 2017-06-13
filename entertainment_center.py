@@ -1,3 +1,5 @@
+""" This file store all the data related to the movies that should be displayed in the Movies trailer website"""
+
 import media
 import fresh_tomatoes
 
