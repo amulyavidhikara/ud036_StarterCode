@@ -10,11 +10,11 @@ kiss_kiss_bang_bang = media.Movie("Kiss Kiss Bang Bang (2005)", "A murder myster
                                   "http://www.suggestmemovie.com/fotolar/1296323193171865407.jpg", "https://youtu.be/__PnD1HWXSo")
 
 
-godfather = media.Movie("The Godfather", "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+godfather = media.Movie("The Godfather (1972)", "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
                         "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL50_SY1000_CR0,0,704,1000_AL_.jpg", "https://youtu.be/sY1S34973zA")
 
 ice_age = media.Movie("Ice Age (2002)", "Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.",
-                      "http://www.imdb.com/title/tt0268380/mediaviewer/rm3112016128", "https://youtu.be/cMfeWyVBidk")
+                      "https://upload.wikimedia.org/wikipedia/en/3/3c/Ice_Age_%282002_film%29_poster.jpg", "https://youtu.be/cMfeWyVBidk")
 
 chak_de_india = media.Movie("Chak De India! (2007)", "The story of a hockey player who returns to the game as a coach of a women's hockey team.",
                             "http://www.suggestmemovie.com/fotolar/1340968445715474218.jpg", "https://youtu.be/6a0-dSMWm5g")
