@@ -8,7 +8,9 @@ This project is create a website that _displays my favorites movies_ and allows 
 2. Extract all file to one folder
 3. Navigate to the folder using `Terminal`
 4. Run the script by executing the following command in the `terminal`:
-` python entertainment_center.py `
+```
+python entertainment_center.py
+```
 5. This will generate the output `html` file and automatically open it in the browser.
 
 ## Known Issues
