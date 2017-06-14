@@ -2,6 +2,9 @@
 
 This project is create a website that _displays my favorites movies_ and allows the user to _play the trailer_ for the movies.
 
+## Prerequisite
+- Python should be installed in your system
+
 ## Usage
 
 1. Download zip file of this project
