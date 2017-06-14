@@ -8,7 +8,7 @@ This project is create a website that _displays my favorites movies_ and allows 
 ## Usage
 
 1. Download zip file of this project
-2. Extract all file to one folder
+2. Extract all files into one folder
 3. Navigate to the folder using `Terminal`
 4. Run the script by executing the following command in the `terminal`:
 ```
