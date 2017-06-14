@@ -13,4 +13,4 @@ This project is create a website that _displays my favorites movies_ and allows 
 
 ## Known Issues
 - While viewing the output file, the second row always shows only one movie. Fix planned for v2
-- Some of the trailers might be restricted for viewing by countries
+- Some of the trailers might be restricted for viewing by the uploader.
