@@ -11,7 +11,7 @@ This project is create a website that _displays my favorites movies_ and allows 
 ```
 python entertainment_center.py
 ```
-5. This will generate the output `html` file and automatically open it in the browser.
+5. This will generate the output file `fresh_tomatoes.html` and automatically open it in the browser.
 
 ## Known Issues
 - While viewing the output file, the second row always shows only one movie. Fix planned for v2
